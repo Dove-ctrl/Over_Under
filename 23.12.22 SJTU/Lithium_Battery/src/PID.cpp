@@ -1,0 +1,95 @@
+#include "PID.h"
+using namespace vex;
+
+PID::PID(){
+    firstTime=true;
+    arrived=false;
+    output=0;
+}
+
+void PID::setCoefficient(float _kp,float _ki,float _kd){
+    kp=_kp;
+    ki=_ki;
+    kd=_kd;
+}
+
+void PID::setTarget(float _target){target=_target;}
+void PID::seterrorTol(float _errorTol){errorTol=_errorTol;}
+void PID::setIrange(float max,float min){IMax=max;IMin=min;}
+bool PID::targetArrived(){return arrived;}
+float PID::getoutput(){return output;}
+void PID::resetI(){I=0;}
+void PID::resetoutput(){output=0;}
+void PID::resetfirstTime(){firstTime=true;}
+
+void PID::update(float input){
+    //this function should be put into a loop(while)
+    errorCurt=target-input;
+    if(fabs(errorCurt)<=errorTol){
+        arrived=true;
+        resetI();
+    }
+    if(firstTime){
+        firstTime=false;
+        errorP=errorCurt;
+        errorI=0;
+    }
+
+    //Calculate P
+    P=errorCurt*kp;
+
+    //Calculate D
+    errorD=errorCurt-errorP;
+    errorP=errorCurt;//record current error for next time calculation
+    D=errorD*kd;
+
+    //Calculate I
+    errorI=I+errorCurt;
+    I=errorI*ki;
+    if(I<IMin)I=IMin;
+    else if(I>IMax)I=IMax;
+    if ((errorI>0)?1:0 != (errorCurt>0)?1:0 || (fabs(errorCurt) <= errorTol)){resetI();}
+    
+    //Calculate PID
+    output=P+I+D;
+}
+
+void PID_VariableI::set_variable_param(float phase,float smooth){
+    Phase=phase;Smooth=smooth;
+}
+
+float PID_VariableI::variable(float error){
+    return 1 / (1 + exp( Smooth * ( error - Phase )));//logistic function
+}
+
+void PID_VariableI::update(float input){
+    //this function should be put into a loop(while)
+    errorCurt=target-input;
+    if(fabs(errorCurt)<=errorTol){
+        arrived=true;
+        resetI();
+    }
+    if(firstTime){
+        firstTime=false;
+        errorP=errorCurt;
+        errorI=0;
+    }
+
+    //Calculate P
+    P=errorCurt*kp;
+
+    //Calculate D
+    errorD=errorCurt-errorP;
+    errorP=errorCurt;//record current error for next time calculation
+    D=errorD*kd;
+
+    //Calculate I
+    errorI=I+variable(errorCurt)*errorCurt;//using variable "I" controller
+    I=errorI*ki;
+    if(I<IMin)I=IMin;
+    else if(I>IMax)I=IMax;
+    if ((errorI>0)?1:0 != (errorCurt>0)?1:0 || (fabs(errorCurt) <= errorTol)){resetI();}
+    
+    //Calculate PID
+    output=P+I+D;
+}

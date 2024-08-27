@@ -1,0 +1,1000 @@
+00:13:20 (0) Drive Start
+00:13:27 (2) Lost radio connection
+00:13:27 (0) Radio linked
+00:13:27 (0) Disabled
+00:13:27 (0) Drive Start
+00:13:30 (0) Program stop
+00:13:32 (0) Match End
+00:13:36 (0) Program start slot 1
+00:13:41 (0) Auton Start
+00:13:43 (0) Disabled
+00:14:16 (0) Drive Start
+00:14:32 (0) Program stop
+00:14:40 (0) Inertial connected on port 4
+00:14:43 (2) Lost radio connection
+00:14:46 (0) Radio linked
+00:14:46 (0) Disabled
+00:14:46 (0) Drive Start
+00:14:49 (0) Program start slot 1
+00:14:59 (0) Program start slot 1
+00:15:01 (0) Match End
+00:15:03 (0) Program start slot 1
+00:15:06 (0) Auton Start
+00:15:16 (0) Disabled
+00:15:16 (0) Drive Start
+00:15:30 (0) Program stop
+00:15:31 (0) Match End
+00:15:35 (0) Program start slot 1
+00:15:43 (0) Auton Start
+00:16:00 (0) Program start slot 1
+00:16:02 (0) Disabled
+00:16:02 (0) Drive Start
+00:16:03 (0) Program start slot 1
+00:16:14 (0) Match End
+00:16:15 (0) Program stop
+00:16:16 (0) Program start slot 1
+00:16:19 (0) Auton Start
+00:17:17 (0) Disabled
+00:17:19 (0) Program start slot 1
+00:17:20 (0) Drive Start
+00:17:38 (0) Program stop
+00:17:38 (0) Match End
+00:18:01 (0) Program start slot 1
+00:18:02 (0) Program start slot 1
+00:18:09 (0) Auton Start
+00:18:21 (0) Disabled
+00:18:21 (0) Drive Start
+00:18:22 (0) Program start slot 1
+00:18:23 (0) Program start slot 1
+00:18:36 (0) Program stop
+00:18:37 (0) Match End
+00:18:38 (0) Program start slot 1
+00:18:41 (0) Auton Start
+00:18:48 (0) Disabled
+00:18:48 (0) Drive Start
+00:18:56 (0) Match End
+00:18:57 (0) Auton Start
+00:19:08 (0) Disabled
+00:19:10 (0) Drive Start
+00:19:32 (0) Match End
+00:19:33 (0) Auton Start
+00:19:39 (0) Disabled
+00:19:39 (0) Drive Start
+00:19:47 (0) Match End
+00:19:48 (0) Auton Start
+00:19:54 (0) Disabled
+00:19:55 (0) Drive Start
+00:20:03 (0) Match End
+00:20:04 (0) Auton Start
+00:20:08 (0) Disabled
+00:20:11 (0) Drive Start
+00:20:21 (0) Match End
+00:20:24 (0) Auton Start
+00:20:27 (0) Disabled
+00:20:29 (0) Drive Start
+00:20:50 (0) Match End
+00:20:52 (0) Auton Start
+00:20:54 (0) Disabled
+00:20:56 (0) Program stop
+00:20:59 (0) Program start slot 1
+00:21:00 (0) Auton Start
+00:21:00 (0) Disabled
+00:21:00 (0) Drive Start
+00:21:24 (0) Program stop
+00:21:25 (0) Match End
+00:21:27 (0) Program start slot 1
+00:21:30 (0) Auton Start
+00:21:41 (0) Disabled
+00:21:41 (0) Drive Start
+00:21:46 (2) Lost radio connection
+00:21:47 (0) Radio linked
+00:21:47 (0) Disabled
+00:21:47 (0) Drive Start
+00:21:54 (0) Match End
+00:21:56 (0) Auton Start
+00:21:57 (0) Disabled
+00:21:59 (0) Drive Start
+00:22:17 (0) Program stop
+00:22:20 (0) Match End
+00:22:21 (0) Program start slot 1
+00:22:25 (0) Auton Start
+00:22:27 (0) Disabled
+00:22:33 (0) Program stop
+00:22:35 (0) Drive Start
+00:22:35 (0) Program start slot 1
+00:22:49 (0) Program stop
+00:22:50 (0) Match End
+00:22:51 (0) Program start slot 1
+00:22:55 (0) Auton Start
+00:23:06 (0) Program stop
+00:23:28 (0) Disabled
+00:23:28 (0) Drive Start
+00:23:28 (0) Program start slot 1
+00:23:39 (0) Program stop
+00:23:40 (0) Match End
+00:26:56 (0) Field tether connected
+00:26:56 (3) Battery 12.99V  62% Capacity
+00:26:58 (0) Program start slot 1
+00:27:00 (0) Program start slot 1
+00:27:08 (0) Auton Start
+00:27:13 (0) Disabled
+00:27:13 (0) Drive Start
+00:27:24 (0) Match End
+00:27:26 (0) Auton Start
+00:27:30 (0) Disabled
+00:27:30 (0) Drive Start
+00:27:37 (0) Match End
+00:27:39 (0) Program stop
+00:27:41 (0) Program start slot 1
+00:27:46 (0) Auton Start
+00:27:51 (0) Disabled
+00:27:51 (0) Drive Start
+00:28:01 (0) Match End
+00:28:01 (0) Auton Start
+00:28:08 (0) Program stop
+00:28:15 (0) Disabled
+00:28:15 (0) Drive Start
+00:28:16 (0) Program start slot 1
+00:28:18 (0) Program start slot 1
+00:28:29 (0) Program stop
+00:28:30 (0) Match End
+00:28:31 (0) Program start slot 1
+00:28:38 (0) Auton Start
+00:28:44 (0) Program stop
+00:28:45 (0) Disabled
+00:29:32 (0) Program start slot 1
+00:32:49 (0) Drive Start
+00:32:50 (0) Program start slot 1
+00:33:03 (0) Program stop
+00:39:31 (2) Lost radio connection
+00:39:34 (0) Radio linked
+00:39:34 (0) Disabled
+00:39:34 (0) Drive Start
+00:39:37 (0) Match End
+00:39:41 (0) Field tether connected
+00:39:41 (3) Battery 12.99V  48% Capacity
+00:39:46 (0) Program start slot 1
+00:39:48 (0) Program start slot 1
+00:39:52 (0) Auton Start
+00:39:55 (0) Disabled
+00:39:55 (0) Auton Start
+00:39:56 (0) Disabled
+00:40:08 (0) Program start slot 1
+00:41:14 (0) Program start slot 1
+00:41:16 (0) Program start slot 1
+00:41:20 (0) Auton Start
+00:41:21 (0) Disabled
+00:41:21 (0) Auton Start
+00:41:22 (0) Disabled
+00:41:23 (0) Auton Start
+00:41:25 (0) Disabled
+00:41:26 (0) Auton Start
+00:41:26 (0) Disabled
+00:41:29 (0) Program stop
+00:41:39 (2) Lost radio connection
+00:41:42 (0) Radio linked
+00:43:13 (2) Lost radio connection
+00:43:13 (0) Radio linked
+00:43:17 (0) Program start slot 1
+00:43:19 (0) Program start slot 1
+00:43:23 (0) Auton Start
+00:43:28 (0) Disabled
+00:43:46 (0) Program start slot 1
+00:43:48 (0) Program start slot 1
+00:43:51 (0) Auton Start
+00:43:53 (0) Disabled
+00:43:53 (0) Auton Start
+00:43:56 (0) Disabled
+00:43:58 (0) Auton Start
+00:44:01 (0) Disabled
+00:44:01 (0) Auton Start
+00:44:04 (0) Disabled
+00:44:43 (0) Auton Start
+00:44:44 (0) Disabled
+00:44:45 (0) Auton Start
+00:44:45 (0) Disabled
+00:44:52 (0) Program stop
+00:44:57 (0) Program start slot 1
+00:45:01 (0) Auton Start
+00:45:03 (0) Disabled
+00:45:04 (0) Auton Start
+00:45:32 (0) Program stop
+00:45:33 (0) Disabled
+00:45:42 (2) Lost radio connection
+00:45:43 (0) Radio linked
+00:47:53 (2) Lost radio connection
+00:47:56 (0) Radio linked
+00:47:58 (0) Program start slot 1
+00:48:00 (0) Program start slot 1
+00:48:04 (0) Auton Start
+00:48:06 (0) Disabled
+00:48:06 (0) Auton Start
+00:48:11 (0) Disabled
+00:48:34 (0) Program start slot 1
+00:48:36 (0) Program start slot 1
+00:48:42 (0) Auton Start
+00:48:48 (0) Disabled
+00:49:47 (0) Auton Start
+00:49:50 (0) Disabled
+00:49:51 (0) Auton Start
+00:49:51 (0) Disabled
+00:49:53 (0) Program stop
+00:50:04 (2) Lost radio connection
+00:50:05 (0) Radio linked
+00:52:06 (2) Lost radio connection
+00:52:08 (0) Radio linked
+00:52:10 (0) Program start slot 1
+00:52:15 (0) Program start slot 1
+00:52:19 (0) Auton Start
+00:52:20 (0) Disabled
+00:52:21 (0) Auton Start
+00:52:22 (0) Disabled
+00:52:23 (0) Auton Start
+00:52:24 (0) Disabled
+00:52:24 (0) Auton Start
+00:52:25 (0) Disabled
+00:52:26 (0) Auton Start
+00:52:27 (0) Disabled
+00:52:27 (0) Auton Start
+00:52:29 (0) Disabled
+00:52:29 (0) Auton Start
+00:52:30 (0) Disabled
+00:52:30 (0) Auton Start
+00:52:34 (0) Disabled
+00:52:34 (0) Auton Start
+00:52:35 (0) Disabled
+00:52:36 (0) Auton Start
+00:52:37 (0) Disabled
+00:52:39 (0) Auton Start
+00:52:41 (0) Disabled
+00:52:41 (0) Auton Start
+00:52:48 (0) Disabled
+00:52:48 (0) Auton Start
+00:52:50 (0) Disabled
+00:52:51 (0) Auton Start
+00:52:52 (0) Disabled
+00:52:53 (0) Auton Start
+00:52:54 (0) Disabled
+00:52:55 (0) Auton Start
+00:52:57 (0) Disabled
+00:52:57 (0) Auton Start
+00:53:00 (0) Disabled
+00:53:03 (0) Program stop
+00:53:13 (2) Lost radio connection
+00:53:14 (0) Radio linked
+00:53:29 (2) Lost radio connection
+00:53:32 (0) Radio linked
+00:53:34 (0) Program start slot 1
+00:53:34 (0) Program start slot 1
+00:53:38 (0) Auton Start
+00:53:40 (0) Disabled
+00:53:40 (0) Auton Start
+00:53:43 (0) Disabled
+00:53:45 (0) Auton Start
+00:53:47 (0) Disabled
+00:53:47 (0) Auton Start
+00:53:49 (0) Disabled
+00:55:54 (0) Program stop
+00:55:55 (2) Lost radio connection
+00:56:25 (0) Radio linked
+00:56:31 (2) Lost radio connection
+00:56:33 (0) Radio linked
+00:56:36 (0) Program start slot 1
+00:56:37 (0) Program start slot 1
+00:56:41 (0) Auton Start
+00:56:42 (0) Disabled
+00:56:42 (0) Auton Start
+00:56:44 (0) Disabled
+00:56:44 (0) Auton Start
+00:56:47 (0) Disabled
+00:56:48 (0) Auton Start
+00:56:49 (0) Disabled
+00:56:50 (0) Auton Start
+00:56:51 (0) Disabled
+00:56:52 (0) Auton Start
+00:56:53 (0) Disabled
+00:56:54 (0) Auton Start
+00:56:55 (0) Disabled
+00:56:56 (0) Auton Start
+00:56:57 (0) Disabled
+00:56:58 (0) Auton Start
+00:56:59 (0) Disabled
+00:57:00 (0) Auton Start
+00:57:01 (0) Disabled
+00:57:02 (0) Auton Start
+00:57:03 (0) Disabled
+00:57:03 (0) Auton Start
+00:57:05 (0) Disabled
+00:57:05 (0) Auton Start
+00:57:09 (0) Disabled
+00:57:10 (0) Program stop
+00:57:18 (0) Program start slot 1
+00:57:20 (0) Program start slot 1
+00:57:24 (0) Auton Start
+00:57:30 (0) Disabled
+00:57:43 (0) Program start slot 1
+00:57:45 (0) Program start slot 1
+00:57:49 (0) Auton Start
+00:57:52 (0) Disabled
+00:58:04 (0) Program stop
+00:58:14 (2) Lost radio connection
+00:58:16 (0) Radio linked
+00:58:56 (2) Lost radio connection
+00:58:59 (0) Radio linked
+00:59:01 (0) Program start slot 1
+00:59:03 (0) Program start slot 1
+00:59:06 (0) Auton Start
+00:59:09 (0) Disabled
+00:59:11 (0) Drive Start
+00:59:22 (0) Program stop
+00:59:23 (0) Match End
+00:59:38 (0) Program start slot 1
+00:59:40 (0) Program start slot 1
+00:59:44 (0) Auton Start
+00:59:45 (0) Disabled
+00:59:46 (0) Auton Start
+00:59:50 (0) Disabled
+00:59:51 (0) Auton Start
+00:59:55 (0) Disabled
+00:59:55 (0) Auton Start
+00:59:58 (0) Disabled
+00:59:59 (0) Auton Start
+01:00:01 (0) Disabled
+01:00:02 (0) Auton Start
+01:00:04 (0) Disabled
+01:00:05 (0) Auton Start
+01:00:07 (0) Disabled
+01:00:26 (0) Program start slot 1
+01:00:31 (0) Auton Start
+01:00:33 (0) Disabled
+01:00:33 (0) Auton Start
+01:00:36 (0) Disabled
+01:00:36 (0) Auton Start
+01:00:38 (0) Disabled
+01:00:39 (0) Auton Start
+01:00:40 (0) Disabled
+01:00:46 (0) Program stop
+01:00:50 (0) Program start slot 1
+01:00:52 (0) Program start slot 1
+01:00:56 (0) Auton Start
+01:00:57 (0) Disabled
+01:00:58 (0) Auton Start
+01:00:59 (0) Disabled
+01:01:00 (0) Auton Start
+01:01:03 (0) Disabled
+01:01:05 (0) Auton Start
+01:01:06 (0) Disabled
+01:02:05 (0) Program stop
+00:00:00 (1) Power On
+00:00:03 (0) Field tether connected
+00:00:03 (3) Battery 13.31V  100% Capacity
+00:00:03 (0) Disabled
+00:03:24 (0) Program start slot 1
+00:03:39 (2) Lost radio connection
+00:03:40 (0) Radio linked
+00:03:40 (2) Lost radio connection
+00:03:42 (0) Radio linked
+00:03:44 (0) Program start slot 1
+00:03:48 (0) Auton Start
+00:03:51 (0) Disabled
+00:04:04 (0) Program start slot 1
+00:04:05 (0) Drive Run
+00:04:07 (0) Program stop
+00:04:10 (0) Program start slot 1
+00:04:14 (0) Auton Start
+00:04:18 (0) Disabled
+00:04:20 (0) Drive Start
+00:04:35 (0) Program stop
+00:04:37 (0) Match End
+00:04:46 (0) Program start slot 1
+00:04:48 (0) Program start slot 1
+00:04:52 (0) Auton Start
+00:04:54 (0) Disabled
+00:04:55 (0) Auton Start
+00:04:57 (0) Disabled
+00:04:57 (0) Auton Start
+00:04:59 (0) Disabled
+00:05:00 (0) Auton Start
+00:05:01 (0) Disabled
+00:05:03 (0) Auton Start
+00:05:07 (0) Disabled
+00:05:17 (0) Program start slot 1
+00:05:20 (0) Program start slot 1
+00:05:24 (0) Auton Start
+00:05:28 (0) Disabled
+00:05:28 (0) Auton Start
+00:05:36 (0) Program stop
+00:05:55 (0) Program start slot 1
+00:06:08 (0) Disabled
+00:06:09 (0) Program start slot 1
+00:06:12 (0) Program start slot 1
+00:06:12 (0) Program start slot 1
+00:06:24 (0) Auton Start
+00:06:28 (0) Disabled
+00:06:52 (0) Program stop
+00:07:08 (0) Program start slot 1
+00:07:16 (0) Program start slot 1
+00:07:17 (0) Program start slot 1
+00:07:20 (0) Auton Start
+00:07:24 (0) Disabled
+00:07:24 (0) Auton Start
+00:07:26 (0) Disabled
+00:07:40 (0) Program stop
+00:08:02 (2) Lost radio connection
+00:08:05 (0) Radio linked
+00:08:21 (2) Field tether disconnected
+00:08:25 (2) Lost radio connection
+00:08:35 (0) Field tether connected
+00:08:35 (3) Battery 13.12V  89% Capacity
+00:08:45 (2) Lost radio connection
+00:08:46 (0) Radio linked
+00:08:50 (0) Program start slot 1
+00:08:54 (0) Program start slot 1
+00:08:58 (0) Auton Start
+00:09:02 (0) Disabled
+00:09:25 (0) Program start slot 1
+00:09:26 (0) Program start slot 1
+00:09:29 (0) Auton Start
+00:09:31 (0) Disabled
+00:09:31 (0) Auton Start
+00:09:34 (0) Disabled
+00:09:34 (0) Auton Start
+00:09:37 (0) Disabled
+00:09:38 (0) Auton Start
+00:09:43 (0) Disabled
+00:09:44 (0) Auton Start
+00:09:46 (0) Disabled
+00:09:47 (0) Auton Start
+00:09:48 (0) Disabled
+00:09:48 (0) Auton Start
+00:09:52 (0) Program stop
+00:09:59 (0) Disabled
+00:10:22 (0) Program start slot 1
+00:10:23 (0) Program start slot 1
+00:10:27 (0) Auton Start
+00:10:32 (0) Disabled
+00:10:51 (0) Program start slot 1
+00:10:55 (0) Auton Start
+00:11:01 (0) Disabled
+00:11:02 (0) Auton Start
+00:11:05 (0) Disabled
+00:11:24 (0) Program stop
+00:13:19 (2) Field tether disconnected
+00:13:22 (2) Lost radio connection
+00:13:28 (0) Field tether connected
+00:13:28 (3) Battery 13.12V  83% Capacity
+00:13:32 (2) Lost radio connection
+00:13:35 (0) Radio linked
+00:13:37 (0) Program start slot 1
+00:13:42 (0) Program start slot 1
+00:13:46 (0) Auton Start
+00:13:49 (0) Disabled
+00:13:49 (0) Auton Start
+00:13:51 (0) Disabled
+00:13:52 (0) Auton Start
+00:13:53 (0) Disabled
+00:13:53 (0) Auton Start
+00:13:55 (0) Disabled
+00:13:58 (0) Auton Start
+00:14:00 (0) Disabled
+00:14:02 (0) Auton Start
+00:14:03 (0) Disabled
+00:14:20 (0) Auton Start
+00:14:21 (0) Disabled
+00:14:34 (0) Program stop
+00:14:39 (0) Program start slot 1
+00:14:41 (0) Program start slot 1
+00:14:44 (0) Auton Start
+00:14:48 (0) Disabled
+00:15:52 (0) Program stop
+00:16:00 (0) Program start slot 1
+00:16:16 (0) Program start slot 1
+00:16:22 (0) Program start slot 1
+00:16:24 (0) Program start slot 1
+00:17:15 (0) Program stop
+00:17:25 (2) Lost radio connection
+00:17:28 (0) Radio linked
+00:17:32 (2) Lost radio connection
+00:17:33 (0) Radio linked
+00:17:37 (0) Program start slot 1
+00:17:41 (0) Program start slot 1
+00:17:45 (0) Auton Start
+00:17:49 (0) Disabled
+00:17:52 (0) Auton Start
+00:17:53 (0) Disabled
+00:17:53 (0) Auton Start
+00:17:55 (0) Disabled
+00:17:55 (0) Auton Start
+00:17:57 (0) Disabled
+00:17:57 (0) Auton Start
+00:17:58 (0) Disabled
+00:18:00 (0) Auton Start
+00:18:02 (0) Disabled
+00:18:02 (0) Auton Start
+00:18:06 (0) Disabled
+00:18:06 (0) Auton Start
+00:18:08 (0) Disabled
+00:18:08 (0) Auton Start
+00:18:10 (0) Disabled
+00:18:15 (0) Program stop
+00:18:29 (0) Program start slot 1
+00:18:31 (0) Program start slot 1
+00:18:35 (0) Auton Start
+00:18:36 (0) Disabled
+00:18:36 (0) Auton Start
+00:18:37 (0) Disabled
+00:18:38 (0) Auton Start
+00:18:39 (0) Disabled
+00:18:39 (0) Auton Start
+00:18:41 (0) Disabled
+00:18:41 (0) Auton Start
+00:18:43 (0) Disabled
+00:18:43 (0) Auton Start
+00:18:45 (0) Disabled
+00:18:45 (0) Auton Start
+00:18:47 (0) Disabled
+00:18:47 (0) Auton Start
+00:18:49 (0) Disabled
+00:18:49 (0) Auton Start
+00:18:51 (0) Disabled
+00:18:59 (0) Program start slot 1
+00:19:01 (0) Program start slot 1
+00:19:04 (0) Auton Start
+00:19:06 (0) Disabled
+00:19:06 (0) Auton Start
+00:19:08 (0) Disabled
+00:19:08 (0) Auton Start
+00:19:10 (0) Disabled
+00:19:10 (0) Auton Start
+00:19:12 (0) Disabled
+00:19:12 (0) Auton Start
+00:19:16 (0) Disabled
+00:19:16 (0) Program stop
+00:19:26 (2) Lost radio connection
+00:19:29 (0) Radio linked
+00:38:02 (2) Lost radio connection
+00:38:03 (0) Radio linked
+00:38:07 (0) Program start slot 1
+00:38:21 (0) Program start slot 1
+00:42:04 (0) Auton Start
+00:42:06 (0) Disabled
+00:42:07 (0) Auton Start
+00:42:08 (0) Disabled
+00:42:08 (0) Auton Start
+00:42:09 (0) Disabled
+00:42:10 (0) Auton Start
+00:42:10 (0) Disabled
+00:42:11 (0) Auton Start
+00:42:11 (0) Disabled
+00:42:12 (0) Auton Start
+00:42:13 (0) Disabled
+00:42:13 (0) Auton Start
+00:42:14 (0) Disabled
+00:42:14 (0) Auton Start
+00:42:15 (0) Disabled
+00:42:15 (0) Auton Start
+00:42:22 (0) Disabled
+00:42:23 (0) Auton Start
+00:42:24 (0) Disabled
+00:42:24 (0) Auton Start
+00:42:25 (0) Disabled
+00:42:25 (0) Auton Start
+00:42:27 (0) Disabled
+00:42:27 (0) Auton Start
+00:42:28 (0) Disabled
+00:42:28 (0) Auton Start
+00:42:29 (0) Disabled
+00:42:30 (0) Auton Start
+00:42:30 (0) Disabled
+00:42:31 (0) Auton Start
+00:42:32 (0) Disabled
+00:42:32 (0) Auton Start
+00:42:34 (0) Disabled
+00:44:47 (0) Auton Start
+00:44:47 (0) Disabled
+00:44:49 (0) Auton Start
+00:44:49 (0) Disabled
+00:44:55 (2) Lost radio connection
+00:44:58 (0) Radio linked
+00:46:34 (2) Lost radio connection
+00:46:35 (0) Radio linked
+00:46:39 (0) Program start slot 1
+00:46:47 (0) Program start slot 1
+00:46:55 (0) Auton Start
+00:47:22 (0) Program start slot 1
+00:47:27 (0) Program start slot 1
+00:47:29 (0) Disabled
+00:47:31 (0) Auton Start
+00:47:31 (0) Disabled
+00:47:32 (0) Auton Start
+00:47:32 (0) Disabled
+00:47:53 (0) Program start slot 1
+00:47:57 (0) Auton Start
+00:48:00 (0) Disabled
+00:48:01 (0) Auton Start
+00:48:02 (0) Disabled
+00:48:03 (0) Auton Start
+00:48:04 (0) Disabled
+00:48:20 (0) Program start slot 1
+00:48:26 (0) Program start slot 1
+00:48:31 (0) Auton Start
+00:48:32 (0) Disabled
+00:48:32 (0) Auton Start
+00:48:34 (0) Disabled
+00:48:34 (0) Auton Start
+00:48:35 (0) Disabled
+00:48:36 (0) Auton Start
+00:48:37 (0) Disabled
+00:48:37 (0) Auton Start
+00:48:39 (0) Disabled
+00:48:40 (0) Auton Start
+00:48:41 (0) Disabled
+00:48:41 (0) Auton Start
+00:48:42 (0) Disabled
+00:48:43 (0) Auton Start
+00:48:44 (0) Disabled
+00:48:47 (0) Auton Start
+00:48:47 (0) Disabled
+00:48:48 (0) Auton Start
+00:48:49 (0) Disabled
+00:48:49 (0) Auton Start
+00:48:49 (0) Disabled
+00:48:50 (0) Auton Start
+00:48:50 (0) Disabled
+00:48:51 (0) Auton Start
+00:48:54 (0) Disabled
+00:48:54 (0) Auton Start
+00:48:56 (0) Disabled
+00:49:45 (2) Lost radio connection
+00:50:37 (0) Radio linked
+00:50:46 (0) Program start slot 1
+00:50:51 (0) Auton Start
+00:50:52 (0) Disabled
+00:50:52 (0) Auton Start
+00:50:54 (0) Disabled
+00:51:22 (0) Auton Start
+00:51:22 (0) Disabled
+00:51:43 (0) Program stop
+00:52:01 (2) Lost radio connection
+00:52:03 (0) Radio linked
+00:52:06 (0) Program start slot 1
+00:52:09 (0) Program start slot 1
+00:52:14 (0) Auton Start
+00:52:16 (0) Disabled
+00:52:16 (0) Auton Start
+00:52:18 (0) Disabled
+00:52:18 (0) Auton Start
+00:52:20 (0) Disabled
+00:52:21 (0) Auton Start
+00:52:53 (0) Disabled
+00:53:02 (0) Auton Start
+00:53:03 (0) Disabled
+00:53:52 (0) Program start slot 1
+00:53:56 (0) Program start slot 1
+00:54:05 (0) Auton Start
+00:54:07 (0) Disabled
+00:54:13 (0) Auton Start
+00:54:13 (0) Disabled
+00:54:15 (0) Auton Start
+00:54:16 (0) Disabled
+00:54:46 (0) Program start slot 1
+00:54:50 (0) Program start slot 1
+00:55:01 (0) Auton Start
+00:55:02 (0) Disabled
+00:55:21 (0) Program start slot 1
+00:55:24 (0) Program start slot 1
+00:55:33 (0) Auton Start
+00:55:34 (0) Disabled
+00:55:35 (0) Auton Start
+00:55:36 (0) Disabled
+00:55:37 (0) Auton Start
+00:55:39 (0) Disabled
+00:55:41 (0) Auton Start
+00:55:43 (0) Disabled
+00:55:44 (0) Auton Start
+00:55:45 (0) Disabled
+00:56:10 (0) Program start slot 1
+00:56:11 (0) Program start slot 1
+00:56:16 (0) Auton Start
+00:56:17 (0) Disabled
+00:56:18 (0) Auton Start
+00:56:19 (0) Disabled
+00:56:20 (0) Auton Start
+00:56:21 (0) Disabled
+00:56:21 (0) Auton Start
+00:56:23 (0) Disabled
+00:56:23 (0) Auton Start
+00:56:25 (0) Disabled
+00:56:26 (0) Auton Start
+00:56:27 (0) Disabled
+00:56:28 (0) Auton Start
+00:56:29 (0) Disabled
+00:56:35 (0) Auton Start
+00:56:36 (0) Disabled
+00:56:37 (0) Auton Start
+00:56:38 (0) Disabled
+00:56:42 (0) Auton Start
+00:56:43 (0) Disabled
+00:56:56 (2) Lost radio connection
+00:56:57 (0) Radio linked
+00:57:02 (0) Auton Start
+00:57:03 (0) Disabled
+00:57:04 (0) Auton Start
+00:57:05 (0) Disabled
+00:57:10 (0) Auton Start
+00:57:11 (0) Disabled
+00:57:12 (0) Auton Start
+00:57:13 (0) Disabled
+00:57:58 (0) Program stop
+00:58:05 (2) Lost radio connection
+00:58:08 (0) Radio linked
+00:58:11 (0) Program start slot 1
+00:58:43 (0) Auton Start
+00:58:43 (0) Disabled
+00:58:46 (0) Program start slot 1
+00:58:52 (0) Auton Start
+00:58:53 (0) Disabled
+00:58:57 (0) Auton Start
+00:58:58 (0) Disabled
+00:58:58 (0) Auton Start
+00:58:59 (0) Disabled
+00:59:06 (0) Auton Start
+00:59:06 (0) Disabled
+00:59:07 (0) Auton Start
+00:59:08 (0) Disabled
+00:59:08 (0) Auton Start
+00:59:09 (0) Disabled
+00:59:10 (0) Auton Start
+00:59:11 (0) Disabled
+00:59:12 (0) Auton Start
+00:59:14 (0) Disabled
+00:59:23 (0) Auton Start
+00:59:25 (0) Disabled
+00:59:26 (0) Auton Start
+00:59:27 (0) Disabled
+00:59:28 (0) Auton Start
+00:59:30 (0) Disabled
+00:59:31 (0) Auton Start
+00:59:32 (0) Disabled
+00:59:33 (0) Auton Start
+00:59:34 (0) Disabled
+00:59:35 (0) Auton Start
+00:59:37 (0) Disabled
+00:59:38 (0) Auton Start
+00:59:39 (0) Disabled
+00:59:47 (0) Auton Start
+00:59:48 (0) Disabled
+00:59:49 (0) Auton Start
+00:59:50 (0) Disabled
+00:59:51 (0) Auton Start
+00:59:52 (0) Disabled
+00:59:53 (0) Auton Start
+00:59:54 (0) Disabled
+00:59:55 (0) Auton Start
+00:59:57 (0) Disabled
+00:59:58 (0) Auton Start
+00:59:59 (0) Disabled
+01:00:12 (0) Auton Start
+01:00:13 (0) Disabled
+01:00:21 (0) Auton Start
+01:00:23 (0) Disabled
+01:00:23 (0) Auton Start
+01:00:25 (0) Disabled
+01:00:44 (0) Auton Start
+01:00:45 (0) Disabled
+01:01:01 (0) Auton Start
+01:01:02 (0) Disabled
+01:01:25 (0) Auton Start
+01:01:26 (0) Disabled
+01:02:00 (0) Program stop
+01:02:28 (0) Program start slot 1
+01:02:32 (0) Program start slot 1
+01:02:50 (0) Auton Start
+01:02:51 (0) Disabled
+01:02:52 (0) Auton Start
+01:02:53 (0) Disabled
+01:03:09 (0) Auton Start
+01:03:10 (0) Disabled
+01:03:25 (0) Auton Start
+01:03:27 (0) Disabled
+01:03:31 (0) Auton Start
+01:03:33 (0) Disabled
+01:03:33 (0) Auton Start
+01:03:47 (0) Program stop
+01:03:55 (0) Disabled
+01:03:59 (0) Program start slot 1
+01:04:19 (0) Program stop
+00:00:00 (1) Power On
+00:00:22 (0) Field tether connected
+00:00:22 (3) Battery 12.80V  26% Capacity
+00:00:22 (0) Disabled
+00:00:23 (0) Drive Run
+00:00:34 (0) Program stop
+00:00:45 (0) Program start slot 1
+00:00:51 (0) Auton Start
+00:00:55 (0) Disabled
+00:00:56 (0) Auton Start
+00:00:57 (0) Disabled
+00:01:32 (0) Auton Start
+00:01:33 (0) Disabled
+00:01:33 (0) Auton Start
+00:01:53 (0) Disabled
+00:02:39 (0) Program stop
+00:03:10 (0) Auton Start
+00:03:11 (0) Disabled
+00:03:15 (0) Program start slot 1
+00:03:21 (0) Auton Start
+00:03:22 (0) Disabled
+00:03:22 (0) Auton Start
+00:03:23 (0) Disabled
+00:04:52 (0) Auton Start
+00:04:53 (0) Disabled
+00:04:53 (0) Auton Start
+00:04:54 (0) Disabled
+00:04:54 (0) Auton Start
+00:04:55 (0) Disabled
+00:04:56 (0) Auton Start
+00:04:58 (0) Disabled
+00:04:59 (0) Auton Start
+00:04:59 (0) Disabled
+00:05:00 (0) Auton Start
+00:05:00 (0) Disabled
+00:05:01 (0) Auton Start
+00:05:01 (0) Disabled
+00:05:02 (0) Auton Start
+00:05:04 (0) Disabled
+00:05:19 (0) Program stop
+00:00:00 (1) Power On
+00:01:04 (0) Program start slot 1
+00:01:16 (2) Motor disconnected on port 2
+00:01:29 (0) Program stop
+00:01:49 (0) Program start slot 1
+00:02:20 (0) Program stop
+00:02:24 (0) Program start slot 1
+00:02:38 (0) Program stop
+00:00:00 (1) Power On
+00:00:33 (2) Lost radio connection
+00:00:38 (0) Program start slot 1
+00:00:39 (0) Program start slot 1
+00:00:59 (0) Program stop
+00:01:11 (2) Lost radio connection
+00:00:00 (1) Power On
+00:00:32 (0) Program start slot 1
+00:00:35 (0) Program stop
+00:00:39 (2) Lost radio connection
+00:00:47 (0) Program start slot 1
+00:02:32 (0) Program stop
+00:05:34 (2) Lost radio connection
+00:00:00 (1) Power On
+00:00:00 (1) Power On
+00:00:00 (1) Power On
+00:00:00 (1) Power On
+00:00:03 (2) Low Battery Cell 4
+00:00:00 (1) Power On
+00:00:52 (0) Program start slot 1
+00:01:00 (0) Program start slot 1
+00:01:04 (0) Program start slot 1
+00:01:31 (0) Program stop
+00:01:36 (0) Program start slot 1
+00:01:38 (0) Program start slot 1
+00:01:45 (0) Program stop
+00:01:51 (0) Program start slot 1
+00:02:10 (0) Program stop
+00:02:22 (2) Lost radio connection
+00:05:23 (2) Lost radio connection
+00:00:00 (1) Power On
+00:00:00 (1) Power On
+00:09:36 (0) Program start slot 1
+00:09:50 (0) Program start slot 1
+00:09:59 (0) Program start slot 1
+00:10:02 (0) Program start slot 1
+00:10:08 (0) Program stop
+00:00:00 (1) Power On
+00:21:00 (2) Lost radio connection
+00:21:05 (0) Program start slot 1
+00:21:08 (0) Program start slot 1
+00:21:58 (0) Program stop
+00:22:08 (0) Program start slot 1
+00:22:15 (0) Program stop
+00:22:23 (0) Program start slot 1
+00:22:26 (0) Program stop
+00:22:41 (0) Program start slot 1
+00:22:43 (0) Program start slot 1
+00:22:46 (0) Program stop
+00:22:55 (0) Program start slot 1
+00:22:57 (0) Program start slot 1
+00:23:03 (0) Program stop
+00:23:08 (0) Program start slot 1
+00:23:12 (0) Program stop
+00:23:20 (0) Program start slot 1
+00:23:30 (0) Program stop
+00:23:52 (0) Program start slot 1
+00:24:08 (0) Program stop
+00:24:39 (0) Program start slot 1
+00:24:43 (0) Program start slot 1
+00:24:43 (0) Program start slot 1
+00:24:51 (0) Program stop
+00:27:52 (0) Program start slot 1
+00:28:03 (0) Program start slot 1
+00:28:11 (0) Program stop
+00:28:17 (0) Program start slot 1
+00:28:23 (0) Program stop
+00:28:42 (0) Program start slot 1
+00:30:59 (0) Program start slot 1
+00:31:01 (0) Program start slot 1
+00:31:04 (0) Program stop
+00:31:07 (0) Program start slot 1
+00:31:18 (0) Program stop
+00:31:35 (0) Program start slot 1
+00:31:37 (0) Program start slot 1
+00:31:43 (0) Program stop
+00:32:25 (0) Program start slot 1
+00:32:29 (0) Program start slot 1
+00:32:36 (0) Program stop
+00:32:47 (0) Program start slot 1
+00:32:50 (0) Program start slot 1
+00:32:55 (0) Program stop
+00:33:18 (0) Program start slot 1
+00:33:20 (0) Program start slot 1
+00:33:26 (0) Program stop
+00:34:15 (0) Program start slot 1
+00:34:16 (0) Program start slot 1
+00:34:24 (0) Program stop
+00:34:37 (0) Program start slot 1
+00:34:39 (0) Program start slot 1
+00:34:44 (0) Program stop
+00:34:52 (0) Program start slot 1
+00:34:55 (0) Program start slot 1
+00:35:11 (0) Program start slot 1
+00:35:26 (0) Program start slot 1
+00:35:28 (0) Program start slot 1
+00:35:32 (0) Program stop
+00:35:36 (0) Program start slot 1
+00:35:42 (0) Program stop
+00:37:39 (0) Program start slot 1
+00:37:43 (0) Program start slot 1
+00:37:52 (0) Program stop
+00:44:16 (0) Program start slot 1
+00:44:39 (0) Program start slot 1
+00:44:49 (0) Program stop
+00:46:11 (0) Program start slot 1
+00:46:13 (0) Program start slot 1
+00:46:18 (0) Program stop
+00:46:31 (0) Program start slot 1
+00:46:34 (0) Program start slot 1
+00:46:50 (0) Program stop
+00:47:05 (0) Program start slot 1
+00:47:08 (0) Program start slot 1
+00:47:15 (0) Program stop
+00:47:24 (0) Program start slot 1
+00:47:33 (0) Program stop
+00:47:46 (0) Program start slot 1
+00:47:53 (0) Program stop
+00:48:04 (0) Program start slot 1
+00:48:04 (0) Program start slot 1
+00:48:10 (0) Program stop
+00:48:41 (0) Program start slot 1
+00:49:03 (0) Program start slot 1
+00:49:05 (0) Program start slot 1
+00:49:13 (0) Program stop
+00:49:30 (0) Program start slot 1
+00:49:32 (0) Program start slot 1
+00:49:40 (0) Program stop
+00:49:55 (0) Program start slot 1
+00:49:57 (0) Program start slot 1
+00:50:08 (0) Program stop
+00:50:12 (0) Program start slot 1
+00:50:37 (0) Program start slot 1
+00:50:50 (0) Program start slot 1
+00:50:56 (0) Program stop
+00:53:11 (0) Program start slot 1
+00:53:15 (0) Program start slot 1
+00:53:29 (0) Program stop
+00:53:49 (0) Program start slot 1
+00:54:08 (0) Program start slot 1
+00:54:30 (0) Program stop
+00:54:33 (0) Program start slot 1
+00:54:45 (0) Program stop
+00:55:27 (0) Program start slot 1
+00:56:21 (2) Motor disconnected on port 7
+00:56:31 (0) Program stop
